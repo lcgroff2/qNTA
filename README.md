@@ -5,6 +5,6 @@ R scripts and markdowns for 2019-2022 Quantitative Non-Targeted Analysis (qNTA) 
 
 [Analytical and Bioanalytical Chemistry Manuscript (2022)](https://doi.org/10.1007/s00216-022-04118-z)
 
-[R-Script for qNTA supervised linear mixed effects modeling with five-fold CV and bootstrap analysis](https://github.com/lcgroff2/qNTA/blob/R%20Scripts/ENTACT_MonteCarlo_Percentiles_Faster.R)
+[R-Script for qNTA supervised linear mixed effects modeling with five-fold CV and bootstrap analysis](https://github.com/lcgroff2/qNTA/blob/master/R%20Scripts/ENTACT_MonteCarlo_Percentiles_Faster.R)
 
 [R-Markdown PDF](https://github.com/lcgroff2/qNTA/blob/master/LG2_JRS_1B_ENTACT_LC_SemiQuant.pdf)
